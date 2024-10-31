@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>silvia.123140133</title>
+  </head>
+  <body>
+    
+    <center>
+    <!-- ini adalah heading -->
+    <h1>Curiculum Vitae</h1>
+    
+    <img src="fotocv.jpg" alt="silvia" height="200"/> 
+    <br>
+
+    <h2>SILVIA</h2>
+    <h2>123140133</h2>
+    <h2>Teknik informatika</h2>
+    <br />
+    </center>
+
+
+    <h2>Contact Person</h2>
+    <h3> 
+        NO WA :
+        <a href="https://wa.me/qr/6NLK3ENBKY2ZF1">0821-6941-0745</a>
+    <h3>
+      instagram :<a
+        href="https://www.instagram.com/cucuspiderm3n/profilecard/?igsh=MTRqNjVkNnJzZXRpbg=="
+        target="_blank"
+        >@cucuspiderm3n</a
+      >
+    </h3>
+    <h3>
+      Email :<a
+        href="https://myaccount.google.com/?utm_source=OGB&utm_medium=app"
+        target="_blank"
+      >
+        silvia.13140133@student.itera.ac.id</a
+      >
+    </h3>
+    <br/>
+
+    <!-- ini adalah data diri -->
+    <h3>Tentang Saya</h3>
+    <p>
+        Seorang mahasiswa Teknik Informatika yang antusias dan berdedikasi, memiliki hasrat mendalam dalam desain kreatif dan seni visual.
+        Didorong oleh rasa ingin tahu yang mendalam dan keinginan untuk memahami cara kerja, saya menganggap pembelajaran 
+        sebagai perjalanan seumur hidup. Saya secara aktif mencari peluang untuk memperluas pengetahuan dan keterampilan 
+        saya baik di bidang teknis maupun non-teknis, sehingga memungkinkan saya untuk terus meningkatkan kemampuan kreatif 
+        dan membawa ide-ide inovatif ke dalam pekerjaan saya.
+    </p>
+    <br>
+
+    <!-- Pendidikan  -->
+    <h3>Pendidikan</h3>
+    <table>
+      <tr>
+        <td>2020-2023</td>
+        <td> <a href="https://dapo.kemdikbud.go.id/sekolah/D0188E13687F10049D23">SMA Negeri 1 Junjung Sirih</a></td>
+        <td>MIPA</td>
+      </tr>
+      <tr>
+        <td>2023 - sekarang</td>
+        <td><a href="https://www.itera.ac.id/">Institiut Teknologi Sumatera</a></td>
+        <td>Teknik Informatika</td>
+      </tr>
+    </table>
+    <br />
+
+    <!-- Pengalaman -->
+    <h3>Pengalaman</h3>
+    <table>
+      <tr>
+        <td>mei-juli 2023 :</td>
+        <td>Bisnis kecil </td>
+      </tr>
+    </table>
+    <br />
+
+    <!-- Kemampuan  -->
+    <h3>Kemampuan</h3>
+    <ul>
+      <li>Canva</li>
+      <li>C++</li>
+      <li>design</li>
+    </ul>
+  </body>
+</html>
